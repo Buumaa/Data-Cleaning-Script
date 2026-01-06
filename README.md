@@ -1,2 +1,2 @@
-# Data-Cleaning-Script
-Python script for cleaning and processing CSV data by removing empty rows and invalid entries
+# Data Cleaning Script
+Cleans empty rows from CSV files using Python.
